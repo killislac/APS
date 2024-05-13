@@ -111,6 +111,7 @@ section {
 }
 
 p {
+    margin: 10px;
     text-align: center;
 }
 
@@ -121,7 +122,6 @@ h2 {
 }
 
 .blocao {
-    margin: 20px;
     display: flex;
     gap: 2rem;
 }
