@@ -124,6 +124,7 @@ h2 {
 .blocao {
     display: flex;
     gap: 2rem;
+    margin-left: 30px
 }
 
 .blocao1 {
